@@ -1,6 +1,6 @@
 # 📦 Sistem Inventaris Barang
 
-Backend sederhana untuk mengelola **inventaris barang** menggunakan **Express.js** dan **MongoDB**.  
+Backend untuk mengelola **inventaris barang** menggunakan **Express.js** dan **MongoDB**.  
 Fitur utama: **Manajemen Barang, Kategori, Transaksi Masuk, Transaksi Keluar, dan Laporan**.
 
 ---
